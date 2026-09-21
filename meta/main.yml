@@ -2,7 +2,7 @@
 galaxy_info:
   author: Berko Alexander
   description: This role installs Vector on Rocky Linux 10
-  company: -
+  company: ""
 
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
