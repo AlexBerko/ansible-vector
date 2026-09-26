@@ -5,6 +5,7 @@
     name: vector
     state: started
     enabled: true
+    daemon_reload: true
 
 - name: Vector | Restart Vector
   become: true
@@ -12,3 +13,4 @@
     name: vector
     state: restarted
     enabled: true
+    daemon_reload: true

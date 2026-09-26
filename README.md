@@ -1,7 +1,7 @@
 Vector
 =========
 
-This role installs Vector on Rocky Linux 10.
+This role installs Vector on Rocky Linux 10, CentOS 7, CentOS 8, Ubuntu 22.04.
 
 
 Role Variables
